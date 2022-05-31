@@ -1,1 +1,1 @@
-This directory contains a shell_variables_expansions linux command list
+This directory contains a shell_variables_expansions, script list
